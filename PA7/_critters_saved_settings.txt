@@ -1,0 +1,9 @@
+#CSE 11 Critters saved settings
+#Thu Nov 17 14:01:46 PST 2022
+Feline=true
+Raccoon=false
+Height=60
+Number\ of\ each\ critter=2
+Leopard=true
+Width=60
+Debug\ output=false
